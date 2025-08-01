@@ -16,12 +16,12 @@
 
         default_layer {
             bindings = <
-&kp GRAVE       &kp N1  &kp N2  &kp N3            &kp N4         &kp N5              &kp N6     &kp N7    &kp N8         &kp N9   &kp N0    &kp EQUAL
-&kp TAB         &kp Q   &kp W   &kp F             &kp P          &kp B               &kp J      &kp L     &kp U          &kp Y    &kp SEMI  &kp MINUS
-&kp ESCAPE      &kp A   &kp R   &kp S             &kp T          &kp G               &kp M      &kp N     &kp E          &kp I    &kp O     &kp SQT
-&kp LEFT_SHIFT  &kp Z   &kp X   &kp C             &kp D          &kp V               &kp K      &kp H     &kp COMMA      &kp DOT  &kp FSLH  &kp BSLH
-                                &kp LEFT_CONTROL  &kp BACKSPACE  &kp LEFT_SHIFT      &kp SPACE  &kp RET   &kp RIGHT_ALT
-                                &mo 1             &kp DELETE     &kp LEFT_CONTROL    &kp DEL    &kp RALT  &tog 2
+&kp GRAVE       &kp N1  &kp N2  &kp N3            &kp N4         &kp N5              &kp N6   &kp N7     &kp N8         &kp N9   &kp N0    &kp EQUAL
+&kp TAB         &kp Q   &kp W   &kp F             &kp P          &kp B               &kp J    &kp L      &kp U          &kp Y    &kp SEMI  &kp MINUS
+&kp ESCAPE      &kp A   &kp R   &kp S             &kp T          &kp G               &kp M    &kp N      &kp E          &kp I    &kp O     &kp SQT
+&kp LEFT_SHIFT  &kp Z   &kp X   &kp C             &kp D          &kp V               &kp K    &kp H      &kp COMMA      &kp DOT  &kp FSLH  &kp BSLH
+                                &kp LEFT_CONTROL  &kp BACKSPACE  &kp LEFT_SHIFT      &kp RET  &kp SPACE  &kp RIGHT_ALT
+                                &mo 1             &kp DELETE     &kp LEFT_CONTROL    &kp DEL  &kp RALT   &tog 2
             >;
         };
 
